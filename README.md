@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there 👋
+<br>
+Working on personal project ✨
+<br>
+현재 개인프로젝트 진행중 😄
 
 <!--
 **onlinekkabchi/onlinekkabchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
