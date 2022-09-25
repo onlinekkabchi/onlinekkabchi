@@ -12,8 +12,9 @@
 <p>- Figma 사용가능</p>
 
 <h2>🌱(현재 진행 중...)아무단어장 프로젝트 / whatever-note Project</h2>
-<p>frontend Sonya, Backend Nathan 합동 프로젝트</p>
+<p>프론트엔드 쏘냐 frontend Sonya, 백엔드 나단 Backend Nathan 합동 프로젝트</p>
 <a href="https://www.figma.com/file/gQJB7CsB38FuJV2NIfd5vd/%EC%95%84%EB%AC%B4%EB%8B%A8%EC%96%B4%EC%9E%A5%2C-%EC%8F%98%EB%83%90%26%EB%82%98%EB%8B%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-_-%EB%94%94%EC%9E%90%EC%9D%B8">Figma Design/Proposal</a>
+<br>
 <a href="https://github.com/nathan29849/whatever-note">Whatever-Note Github Repository</a>
 
 <h3>🌱언어/Languages</h3>
