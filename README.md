@@ -11,14 +11,13 @@
 - Figma 사용가능
 
 <h1>🌱 프로젝트</h1>
+
 - 아무단어장 프로젝트 / whatever-note project
 
-<p>프론트엔드 쏘냐 frontend Sonya, 백엔드 나단 Backend Nathan 합동 프로젝트</p>
-<a href="https://www.figma.com/file/gQJB7CsB38FuJV2NIfd5vd/%EC%95%84%EB%AC%B4%EB%8B%A8%EC%96%B4%EC%9E%A5%2C-%EC%8F%98%EB%83%90%26%EB%82%98%EB%8B%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-_-%EB%94%94%EC%9E%90%EC%9D%B8">Figma Design/Proposal</a>
-<br>
-<a href="https://github.com/nathan29849/whatever-note">Whatever-Note Github Repository</a>
+  프론트엔드 쏘냐 frontend Sonya, 백엔드 나단 Backend Nathan 합동 프로젝트  
+  [Figma Design/Proposal](https://www.figma.com/file/gQJB7CsB38FuJV2NIfd5vd/%EC%95%84%EB%AC%B4%EB%8B%A8%EC%96%B4%EC%9E%A5%2C-%EC%8F%98%EB%83%90%26%EB%82%98%EB%8B%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-_-%EB%94%94%EC%9E%90%EC%9D%B8)
 
-= 한줄괴담 블로그 / scary-short-story blog
+- 한줄괴담 블로그 / scary-short-story blog
 - 대충 위로해주는 앱 / consolation-log(korean only)
 
 <h1>🌱 언어/Languages</h1>
