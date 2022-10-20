@@ -4,10 +4,11 @@
 <p>Hi there! I'm front-end developer Sonya👋</p>
 
 <h1>🌱 기술/Skill</h1>
-<p>- JavaScript/TypeScript</p>
-<p>- ReactJS</p>
-<p>- MongoDB</p>
-<p>- Figma 사용가능</p>
+
+- JavaScript/TypeScript
+- ReactJS
+- MongoDB
+- Figma 사용가능
 
 <h1>🌱 프로젝트</h1>
 <h3>🔭 아무단어장 프로젝트 / whatever-note project</h3>
@@ -21,9 +22,10 @@
 <h3>🔭 대충 위로해주는 앱 / consolation-log(korean only)</h3>
 
 <h1>🌱 언어/Languages</h1>
-<p>한국어/Korean</p>
-<p>영어/English</p>
-<p>독일어/German/Deutsch : C1 certificate</p>
+
+- 한국어/Korean
+- 영어/English
+- 독일어/German/Deutsch : C1 certificate
 
 <h1>😄 And Blender Hobbyist</h1>
 
