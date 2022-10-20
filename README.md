@@ -25,7 +25,7 @@
 <p>영어/English</p>
 <p>독일어/German/Deutsch : C1 certificate</p>
 
-<h2>😄 Blender Hobbyist</h2>
+<h3>😄 And Blender Hobbyist</h3>
 
 
 <img src="https://user-images.githubusercontent.com/66970178/196879400-b5281566-3a83-4bbf-b135-54b16e1b8eca.jpg" width="480"/>
