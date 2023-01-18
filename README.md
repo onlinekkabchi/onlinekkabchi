@@ -19,10 +19,10 @@
 
 <h1>😄 And Blender Hobbyist</h1>
 
-<img src="https://user-images.githubusercontent.com/66970178/196879400-b5281566-3a83-4bbf-b135-54b16e1b8eca.jpg" width="480"/>
-<img src="https://user-images.githubusercontent.com/66970178/196880162-ee097892-83d6-4ab4-a79f-b657b983489e.jpeg" width="480"/>
-<img src="https://user-images.githubusercontent.com/66970178/196879404-948108f6-64ed-4802-8469-029c8d305159.jpg" width="480"/>
-<img src="https://user-images.githubusercontent.com/66970178/196879480-21849ec3-efbd-4ada-98de-ce1e697fbb68.jpeg" width="480"/>
+<img src="https://user-images.githubusercontent.com/66970178/196879400-b5281566-3a83-4bbf-b135-54b16e1b8eca.jpg" width="200"/>
+<img src="https://user-images.githubusercontent.com/66970178/196880162-ee097892-83d6-4ab4-a79f-b657b983489e.jpeg" width="200"/>
+<img src="https://user-images.githubusercontent.com/66970178/196879404-948108f6-64ed-4802-8469-029c8d305159.jpg" width="200"/>
+<img src="https://user-images.githubusercontent.com/66970178/196879480-21849ec3-efbd-4ada-98de-ce1e697fbb68.jpeg" width="200"/>
 
 
 <!--
