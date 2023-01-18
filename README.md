@@ -6,7 +6,7 @@
 <h1>🌱 기술/Skill</h1>
 
 - JavaScript/TypeScript
-- ReactJS
+- ReactJs
 - React-Native
 - MongoDB
 - Figma, Photoshop 사용가능
