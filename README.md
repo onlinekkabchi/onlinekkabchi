@@ -1,7 +1,7 @@
 
 <h1>🌱 자기소개</h1>
-<p>안녕하세요! 프론트엔드 개발자 쏘냐입니다.</p>
-<p>Hi there! I'm front-end developer Sonya👋</p>
+<p>안녕하세요! 쏘냐입니다.</p>
+<p>Hi there! I'm Sonya👋</p>
 
 <h1>🌱 기술/Skill</h1>
 
