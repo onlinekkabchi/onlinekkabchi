@@ -68,9 +68,9 @@
 <br/>
 <span>Hilarious Front-end Developer wants to make world a better place... who wants to make world a better place?!</span>
 <br/>
-<span>Seit 2017 lerne ich Deutsch, Köln ist meine erste Stadt in Deutschland, deshalb ist sie meine deutsche Heimat.. woher kommst du?</span>
+<span>Köln ist meine erste Stadt in Deutschland, sie ist deswegen meine deutsche Heimat.. woher kommst du?</span>
 <br/>
-<span>C1 Deutsch : DSH 2, 2019 Aachen.</span>
+<img src="https://img.shields.io/badge/C1%20Deutsch-DSH%202%2C%202019%20Aachen-yellow"/>
 
 </div>
 
