@@ -68,9 +68,9 @@
 
 <span>한국어 원어민, 국문과 졸업.</span>
 <br/>
-<span>Hilarious Front-end Developer wants to make world a better place... who wants to make world a better place?!</span>
+<span>Hilarious Front-end Developer wants to make world a better place... Who wants to make world a better place?!</span>
 <br/>
-<span>Köln ist meine erste Stadt in Deutschland, sie ist deswegen meine deutsche Heimat.. woher kommst du?</span>
+<span>Köln ist meine erste Stadt in Deutschland, sie ist deswegen meine deutsche Heimatstadt.. Woher kommst du?</span>
 <br/>
 <img src="https://img.shields.io/badge/C1%20Deutsch-DSH%202%2C%202019%20Aachen-yellow"/>
 
