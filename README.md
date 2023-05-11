@@ -8,7 +8,10 @@
 <a href="https://www.figma.com/file/gQJB7CsB38FuJV2NIfd5vd/%EC%95%84%EB%AC%B4%EB%8B%A8%EC%96%B4%EC%9E%A5%2C-%EC%8F%98%EB%83%90%26%EB%82%98%EB%8B%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-_-%EB%94%94%EC%9E%90%EC%9D%B8" target="_blank">아무단어장 프로젝트 1차 계획안, Figma Design/Proposal(Link!)</a>
 <br/>
 <a href="https://whatever-do-list.netlify.app/" target="_blank">아무단어장 프로젝트 TODO LIST(Link!)</a>
-<li>한줄괴담 블로그 / scary-short-story blog : [ 2003.03.08 ~ ] 사이트 리뉴얼 중..</li>
+<br/>
+<a href="https://whatever-note-hdo8wopqi-onlinekkabchi.vercel.app/">아무단어장 프로젝트 임시배포(Link!)</a>
+    <br/>
+    <li>한줄괴담 블로그 / scary-short-story blog : [ 2003.03.08 ~ ] 사이트 리뉴얼 중..</li>
 <li><a href="https://dev-study-form.netlify.app" target="_blank">DevCamp 스터디 설문지(Link!)</a></li>    
 
 
