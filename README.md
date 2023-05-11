@@ -9,7 +9,7 @@
 <br/>
 <a href="https://whatever-do-list.netlify.app/" target="_blank">아무단어장 프로젝트 TODO LIST(Link!)</a>
 <br/>
-<a href="https://whatever-note-hdo8wopqi-onlinekkabchi.vercel.app/">아무단어장 프로젝트 임시배포(Link!)</a>
+<a href="https://whatever-note.vercel.app/">아무단어장 프로젝트 임시배포(Link!)</a>
     <br/>
     <li>한줄괴담 블로그 / scary-short-story blog : [ 2003.03.08 ~ ] 사이트 리뉴얼 중..</li>
 <li><a href="https://dev-study-form.netlify.app" target="_blank">DevCamp 스터디 설문지(Link!)</a></li>    
