@@ -12,7 +12,7 @@
 <a href="https://whatever-note.vercel.app/">아무단어장 프로젝트 임시배포(Link!)</a>
     <br/>
     <li>한줄괴담 블로그 / scary-short-story blog : [ 2003.03.08 ~ ] 사이트 리뉴얼 중..</li>
-<li><a href="https://dev-study-form.netlify.app" target="_blank">DevCamp 스터디 설문지(Link!)</a></li>    
+<!-- <li><a href="https://dev-study-form.netlify.app" target="_blank">DevCamp 스터디 설문지(Link!)</a></li>     -->
 
 
 
@@ -72,7 +72,7 @@
 
 
 
-<span>한국어 원어민, 국문과 졸업.</span>
+<!-- <span>한국어 원어민, 국문과 졸업.</span>
 <br/>
 <span>Hilarious Front-end Developer wants to make world a better place... Who wants to make world a better place?!</span>
 <br/>
@@ -80,6 +80,6 @@
 <br/>
 <br/>
 <img src="https://img.shields.io/badge/C1%20Deutsch-DSH%202%2C%202019%20Aachen-yellow"/>
-
+ -->
 </div>
 
