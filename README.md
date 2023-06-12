@@ -11,7 +11,11 @@
 <br/>
 <a href="https://whatever-next-01.vercel.app/">아무단어장 프로젝트 vercel 임시배포(Link!)</a>
     <br/>
-    <a href="https://blog-next-02.vercel.app/">한줄괴담 블로그 / scary-short-story blog : [ 2023.03.08 ~ ]</a>
+    <li>한줄괴담 블로그 / scary-short-story blog : [ 2023.03.08 ~ ]</li>
+    <br/>
+    <a href="https://blog-next-02.vercel.app/">한줄괴담 블로그(Link!)</a>
+    <br/>
+    <a href="">미니 게시판</a>
 <!-- <li><a href="https://dev-study-form.netlify.app" target="_blank">DevCamp 스터디 설문지(Link!)</a></li>     -->
 
 
