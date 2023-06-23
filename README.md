@@ -1,5 +1,4 @@
-
-<div  align="center">
+<!-- <div  align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=쏘냐입니다,%20I'm%20Sonya&fontSize=62" />
     
 <h2>Project</h2>
@@ -14,14 +13,14 @@
     </br>
     <li>한줄괴담 블로그 / scary-short-story blog : [ 2023.03.08 ~ ] </li>
     <a href="https://blog-next-02.vercel.app/">한줄괴담 블로그 vercel 배포(Link!)</a>
-    </br>
-<!--     </br> -->
+    </br> ->
 <!--     <li>미니 게시판:  <a href="https://blog-next-02.vercel.app/">(Link!)</a></li> -->
 
 
 
     
-    
+<h1>안녕하세요. 쏘냐입니다.</h1>
+<br />
 <h2>Skill</h2>
 
 <div>
