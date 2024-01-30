@@ -14,18 +14,14 @@
     <li>한줄괴담 블로그 / scary-short-story blog : [ 2023.03.08 ~ ] </li>
     <a href="https://blog-next-02.vercel.app/">한줄괴담 블로그 vercel 배포(Link!)</a>
     </br> ->
-<!--     <li>미니 게시판:  <a href="https://blog-next-02.vercel.app/">(Link!)</a></li> -->
-
-
 
     
 <h1>안녕하세요. 쏘냐입니다.</h1>
 
 <h2>Project</h2>
-<p>이하 현재 작업중인 프로젝트 배포 링크</p>
 <a href="https://blog-next-02.vercel.app/">한줄괴담 블로그, vercel 배포(Link!)</a>
     </br>
-<a href="https://apm-server-tester-1.du.r.appspot.com/">손게임 들어간 웹사이트, gcp 배포(Link!)</a>
+<- <a href="https://apm-server-tester-1.du.r.appspot.com/">손게임 들어간 웹사이트, gcp 배포(Link!)</a> ->
 
 
 <h3>아무단어장</h3>
