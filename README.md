@@ -13,7 +13,6 @@
     </br>
     <li>한줄괴담 블로그 / scary-short-story blog : [ 2023.03.08 ~ ] </li>
     <a href="https://blog-next-02.vercel.app/">한줄괴담 블로그 vercel 배포(Link!)</a>
-    </br> ->
 
     
 <h1>안녕하세요. 쏘냐입니다.</h1>
