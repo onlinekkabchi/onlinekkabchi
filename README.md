@@ -1,13 +1,6 @@
-<h3>안녕하세요. 쏘냐입니다.</h3>
-<h3>HELLO, I AM SONYA.</h3>
-
-
-<h5>프로젝트 / Project</h5>
-<a href="https://blog-next-02.vercel.app/">한줄괴담 블로그, 리뉴얼중....(Link!)</a>
-    </br>
-
-<h5>스킬 / Skill</h5>
-
+<h3>프로젝트 / Projects</h3>
+<a href="https://story-community-1745d.web.app/">토스팅 진행중... Toasting in progress...(Link!)</a>
+<h3>스킬 / Skills</h3>
 <div>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -31,18 +24,12 @@
 </div>
   
 
-<h5>취미로 하는 3D 모델링 / And Blender Hobbyist</h5>
+<h3>3D 모델링 취미 / And Blender Hobbyist</h3>
 
 <img src="https://user-images.githubusercontent.com/66970178/196879400-b5281566-3a83-4bbf-b135-54b16e1b8eca.jpg" width="450"/>
 <img src="https://user-images.githubusercontent.com/66970178/196880162-ee097892-83d6-4ab4-a79f-b657b983489e.jpeg" width="450"/>
 <img src="https://user-images.githubusercontent.com/66970178/196879404-948108f6-64ed-4802-8469-029c8d305159.jpg" width="450"/>
 <img src="https://user-images.githubusercontent.com/66970178/196879480-21849ec3-efbd-4ada-98de-ce1e697fbb68.jpeg" width="450"/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
 
 
 <!-- <span>한국어 원어민, 국문과 졸업.</span>
