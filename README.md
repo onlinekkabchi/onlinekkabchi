@@ -1,6 +1,5 @@
 <h3>프로젝트 / Projects</h3>
 <p>사이드 프로젝트 토스팅(Toasting) 작업중... Project Toasing currently in progress...</p>
-<br/>
 <a href="https://www.figma.com/design/U5kH63rp1bkFOYQR5HUGkU/%5B%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D-%ED%86%A0%EC%8A%A4%ED%8C%85?node-id=82-541&t=tM1j1uP3jX9gMWak-0">토스팅 피그마 Toasting Figma(Link!)</a>
 <br/>
 <a href="https://story-community-1745d.web.app/">토스팅 배포주소 Toasting Site(Link!)</a>
